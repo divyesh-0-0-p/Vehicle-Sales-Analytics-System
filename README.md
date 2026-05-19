@@ -213,3 +213,11 @@ Vehicle-Sales-Analytics-System/
 The Vehicle Sales Analytics System demonstrates the complete workflow of a real-world data analytics project, including data cleaning, SQL analysis, Python-based exploration, DAX calculations, and interactive Power BI dashboard development.
 
 This project highlights the use of business intelligence techniques to transform raw sales data into meaningful business insights for better decision-making.
+---
+
+## Note
+
+The Power BI dashboard file (.pbix) and dataset are not publicly shared to protect project originality and prevent unauthorized reuse.
+
+Dashboard screenshots and project documentation are provided for demonstration purposes.
+
