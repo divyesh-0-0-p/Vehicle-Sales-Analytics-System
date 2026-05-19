@@ -154,9 +154,9 @@ Vehicle-Sales-Analytics-System/
 │   ├── customer_analysis.png
 │   └── profit_analysis.png
 │
-├── requirements.txt
-├── .gitignore
 └── README.md
+
+
 ```
 ---
 
