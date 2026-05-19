@@ -164,25 +164,25 @@ Vehicle-Sales-Analytics-System/
 
 ### Overview Dashboard
 
-![Overview Dashboard](screenshots/overview_page.png)
+![Overview Dashboard](screenshots/01_overview_page.png)
 
 ---
 
 ### Sales Analysis Dashboard
 
-![Sales Analysis Dashboard](screenshots/sales_analysis.png)
+![Sales Analysis Dashboard](screenshots/02_sales_analysis.png)
 
 ---
 
 ### Customer Insights Dashboard
 
-![Customer Insights Dashboard](screenshots/customer_analysis.png)
+![Customer Insights Dashboard](screenshots/03_customer_analysis.png)
 
 ---
 
 ### Profit & Time Analysis Dashboard
 
-![Profit Analysis Dashboard](screenshots/profit_analysis.png)
+![Profit Analysis Dashboard](screenshots/04_profit_analysis.png)
 
 ---
 
